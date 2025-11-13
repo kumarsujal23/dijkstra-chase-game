@@ -52,7 +52,5 @@ This project simulates an exciting chase scenario where burglars (Car A) attempt
 - **JSON**: Data storage and configuration
 - **Heapq**: Priority queue for Dijkstra's algorithm
 
-## 📦 Installation
 
-### Prerequisites
 
